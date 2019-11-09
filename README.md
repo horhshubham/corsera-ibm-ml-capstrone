@@ -1,1 +1,1 @@
-# corsera-ibm-ml-capstrone
+# coursera-ibm-ml-capstrone
